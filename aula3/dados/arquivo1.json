@@ -1,0 +1,19 @@
+[{
+
+    "Produto": "Bolsa",
+    "Categoria": "Acessorio",
+    "Quantidade": 1,
+    "Venda": 3000,
+    "Data": "2023-01-16"
+}
+,
+{
+
+    "Produto": "Jogo da Vida",
+    "Categoria": "Brinquedo",
+    "Quantidade": 2,
+    "Venda": 150,
+    "Data": "2023-01-16"
+}   
+
+]

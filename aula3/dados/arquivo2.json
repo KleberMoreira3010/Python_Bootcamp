@@ -1,0 +1,19 @@
+[{
+
+    "Produto": "Lapis",
+    "Categoria": "Material Escolar",
+    "Quantidade": 15,
+    "Venda": 100,
+    "Data": "2023-01-17"
+}
+,
+{
+
+    "Produto": "Celular",
+    "Categoria": "Eletronico",
+    "Quantidade": 1,
+    "Venda": 3000,
+    "Data": "2023-01-17"
+}   
+
+]

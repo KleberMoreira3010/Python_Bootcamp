@@ -1,0 +1,19 @@
+[{
+
+    "Produto": "Notebook",
+    "Categoria": "Eletronicos",
+    "Quantidade": 3,
+    "Venda": 1500,
+    "Data": "2023-01-15"
+}
+,
+{
+
+    "Produto": "Cadeira",
+    "Categoria": "Moveis",
+    "Quantidade": 2,
+    "Venda": 800,
+    "Data": "2023-01-15"
+}   
+
+]
