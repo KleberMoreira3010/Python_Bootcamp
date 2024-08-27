@@ -27,3 +27,6 @@ if __name__ == "__main__":
     pasta_argumento = 'aula3\dados'
     dataframe=extrair_dados(pasta=pasta_argumento)
     print(transformar_dados(dataframe))
+
+
+# Configurar as saídas
